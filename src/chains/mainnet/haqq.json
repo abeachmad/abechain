@@ -3,7 +3,7 @@
   "api": ["https://haqq-t.api.manticore.team:443/"],
   "rpc": ["https://haqq-t.rpc.manticore.team:443/"],
   "snapshot_provider": "",
-  "sdk_version": "0.45.5",
+  "sdk_version": "0.45.6",
   "coin_type": "60",
   "min_tx_fee": "800",
   "assets": [
