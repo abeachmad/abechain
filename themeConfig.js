@@ -11,7 +11,7 @@ export const $themeConfig = {
   app: {
     appName: 'AbeClog', // Will update name in navigation menu (Branding)
     // eslint-disable-next-line global-require
-    appLogoImage: '/logo.svg', // Will update logo in navigation menu (Branding)
+    appLogoImage: '/cryptolog.svg', // Will update logo in navigation menu (Branding)
   },
   layout: {
     isRTL: false,
