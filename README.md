@@ -1,6 +1,6 @@
 <div align="center">
 
-![Ping Wallet](./public/cryptolog.png)
+![Ping Wallet](./public/cryptolog.svg)
 
 <h1>Ping Dashboard</h1>
 
