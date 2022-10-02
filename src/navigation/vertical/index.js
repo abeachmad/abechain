@@ -19,7 +19,7 @@ function processMenu() {
       title: 'blockchains',
       children: blockchains,
       tag: `${blockchains.length}`,
-      icon: 'https://raw.githubusercontent.com/mdlog/mdlogchain/master/public/islm.png',
+      icon: 'https://raw.githubusercontent.com/abeachmad/abechain/master/public/islm.png',
     })
   }
   chainMenus.push({ header: 'LINKS' })
@@ -32,28 +32,28 @@ function processMenu() {
   } else {
     chainMenus.push({
       title: 'Testnet Explorer',
-      href: 'https://github.com/mdlog/mdlogchain',
+      href: 'https://github.com/abeachmad/abechain',
       icon: 'LifeBuoyIcon',
     })
   }
   chainMenus.push({
     title: 'Github',
-    href: 'https://github.com/mdlog/mdlogchain',
+    href: 'https://github.com/abeachmad/abechain',
     icon: 'GithubIcon',
   })
   chainMenus.push({
     title: 'Discord',
-    href: 'https://discord.gg/5WScYn2r',
+    href: 'https://discord.gg/7qzXTU97',
     icon: 'EyeIcon',
   })
   chainMenus.push({
     title: 'Twitter',
-    href: 'https://twitter.com/MDNodes',
+    href: 'https://twitter.com/abeachmad_',
     icon: 'TwitterIcon',
   })
   chainMenus.push({
     title: 'Telegram',
-    href: 'https://t.me/mdlog',
+    href: 'https://t.me/abeachmad',
     icon: 'SendIcon',
   })
 
